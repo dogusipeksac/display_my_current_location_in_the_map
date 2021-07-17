@@ -1,0 +1,2 @@
+rootProject.name = "get_my_location_onthe_map"
+include ':app'
